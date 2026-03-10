@@ -95,7 +95,7 @@ export default function App() {
       category: 'Arcade',
       icon: <Gamepad2 className="w-6 h-6" />,
       color: 'from-emerald-500 to-teal-600',
-      previewImage: 'https://picsum.photos/seed/snake-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Snake
     },
     {
@@ -106,7 +106,7 @@ export default function App() {
       category: 'Puzzle',
       icon: <LayoutGrid className="w-6 h-6" />,
       color: 'from-blue-500 to-indigo-600',
-      previewImage: 'https://picsum.photos/seed/tetris-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Tetris
     },
     {
@@ -117,7 +117,7 @@ export default function App() {
       category: 'Logic',
       icon: <Hash className="w-6 h-6" />,
       color: 'from-orange-400 to-rose-500',
-      previewImage: 'https://picsum.photos/seed/2048-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Game2048
     },
     {
@@ -128,7 +128,7 @@ export default function App() {
       category: 'Puzzle',
       icon: <Brain className="w-6 h-6" />,
       color: 'from-purple-500 to-pink-600',
-      previewImage: 'https://picsum.photos/seed/memory-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: MemoryMatch
     },
     {
@@ -139,7 +139,7 @@ export default function App() {
       category: 'Classic',
       icon: <Grid3X3 className="w-6 h-6" />,
       color: 'from-rose-500 to-orange-600',
-      previewImage: 'https://picsum.photos/seed/tictactoe-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: TicTacToe
     },
     {
@@ -150,7 +150,7 @@ export default function App() {
       category: 'Logic',
       icon: <Bomb className="w-6 h-6" />,
       color: 'from-zinc-500 to-zinc-700',
-      previewImage: 'https://picsum.photos/seed/minesweeper-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Minesweeper
     },
     {
@@ -161,7 +161,7 @@ export default function App() {
       category: 'Logic',
       icon: <Hash className="w-6 h-6" />,
       color: 'from-cyan-500 to-blue-600',
-      previewImage: 'https://picsum.photos/seed/sudoku-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Sudoku
     },
     {
@@ -172,7 +172,7 @@ export default function App() {
       category: 'Arcade',
       icon: <Bird className="w-6 h-6" />,
       color: 'from-yellow-400 to-orange-500',
-      previewImage: 'https://picsum.photos/seed/bird-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: FlappyBird
     },
     {
@@ -183,7 +183,7 @@ export default function App() {
       category: 'Arcade',
       icon: <CircleDot className="w-6 h-6" />,
       color: 'from-zinc-400 to-zinc-600',
-      previewImage: 'https://picsum.photos/seed/pong-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Pong
     },
     {
@@ -194,7 +194,7 @@ export default function App() {
       category: 'Arcade',
       icon: <Shapes className="w-6 h-6" />,
       color: 'from-emerald-400 to-green-600',
-      previewImage: 'https://picsum.photos/seed/breakout-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Breakout
     },
     {
@@ -205,7 +205,7 @@ export default function App() {
       category: 'Puzzle',
       icon: <Keyboard className="w-6 h-6" />,
       color: 'from-zinc-700 to-zinc-900',
-      previewImage: 'https://picsum.photos/seed/wordle-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Wordle
     },
     {
@@ -216,7 +216,7 @@ export default function App() {
       category: 'Logic',
       icon: <Dna className="w-6 h-6" />,
       color: 'from-pink-500 to-rose-600',
-      previewImage: 'https://picsum.photos/seed/color-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: ColorMatch
     },
     {
@@ -227,7 +227,7 @@ export default function App() {
       category: 'Arcade',
       icon: <Layers className="w-6 h-6" />,
       color: 'from-cyan-400 to-blue-500',
-      previewImage: 'https://picsum.photos/seed/tower-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: TowerStack
     },
     {
@@ -238,7 +238,7 @@ export default function App() {
       category: 'Arcade',
       icon: <MousePointer2 className="w-6 h-6" />,
       color: 'from-amber-600 to-orange-700',
-      previewImage: 'https://picsum.photos/seed/mole-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: WhackAMole
     },
     {
@@ -249,7 +249,7 @@ export default function App() {
       category: 'Logic',
       icon: <Lightbulb className="w-6 h-6" />,
       color: 'from-blue-400 to-indigo-500',
-      previewImage: 'https://picsum.photos/seed/simon-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: SimonSays
     },
     {
@@ -260,7 +260,7 @@ export default function App() {
       category: 'Puzzle',
       icon: <Puzzle className="w-6 h-6" />,
       color: 'from-zinc-400 to-zinc-600',
-      previewImage: 'https://picsum.photos/seed/hangman-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Hangman
     },
     {
@@ -271,7 +271,7 @@ export default function App() {
       category: 'Classic',
       icon: <Dices className="w-6 h-6" />,
       color: 'from-rose-400 to-red-600',
-      previewImage: 'https://picsum.photos/seed/rps-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: RockPaperScissors
     },
     {
@@ -282,7 +282,7 @@ export default function App() {
       category: 'Puzzle',
       icon: <Compass className="w-6 h-6" />,
       color: 'from-emerald-600 to-teal-700',
-      previewImage: 'https://picsum.photos/seed/maze-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Maze
     },
     {
@@ -293,7 +293,7 @@ export default function App() {
       category: 'Arcade',
       icon: <MousePointer2 className="w-6 h-6" />,
       color: 'from-yellow-400 to-amber-500',
-      previewImage: 'https://picsum.photos/seed/click-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Clicker
     },
     {
@@ -304,7 +304,7 @@ export default function App() {
       category: 'Logic',
       icon: <Zap className="w-6 h-6" />,
       color: 'from-rose-500 to-red-600',
-      previewImage: 'https://picsum.photos/seed/zap-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: ReactionTime
     },
     {
@@ -315,7 +315,7 @@ export default function App() {
       category: 'Action',
       icon: <Target className="w-6 h-6" />,
       color: 'from-red-500 to-rose-600',
-      previewImage: 'https://picsum.photos/seed/target-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: AimTrainer
     },
     {
@@ -326,7 +326,7 @@ export default function App() {
       category: 'Classic',
       icon: <Type className="w-6 h-6" />,
       color: 'from-blue-500 to-indigo-600',
-      previewImage: 'https://picsum.photos/seed/type-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: TypingSpeed
     },
     {
@@ -337,7 +337,7 @@ export default function App() {
       category: 'Logic',
       icon: <Grid3X3 className="w-6 h-6" />,
       color: 'from-zinc-700 to-zinc-900',
-      previewImage: 'https://picsum.photos/seed/puzzle-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: Puzzle15
     },
     {
@@ -348,7 +348,7 @@ export default function App() {
       category: 'Logic',
       icon: <CircleDot className="w-6 h-6" />,
       color: 'from-blue-600 to-indigo-700',
-      previewImage: 'https://picsum.photos/seed/connect-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: ConnectFour
     },
     {
@@ -359,7 +359,7 @@ export default function App() {
       category: 'Logic',
       icon: <Lightbulb className="w-6 h-6" />,
       color: 'from-yellow-500 to-orange-600',
-      previewImage: 'https://picsum.photos/seed/light-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: LightsOut
     },
     {
@@ -381,7 +381,7 @@ export default function App() {
       category: 'Logic',
       icon: <CircleDot className="w-6 h-6" />,
       color: 'from-zinc-200 to-zinc-400',
-      previewImage: 'https://picsum.photos/seed/peg-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: PegSolitaire
     },
     {
@@ -392,7 +392,7 @@ export default function App() {
       category: 'Logic',
       icon: <Layers className="w-6 h-6" />,
       color: 'from-orange-500 to-red-600',
-      previewImage: 'https://picsum.photos/seed/hanoi-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: TowerOfHanoi
     },
     {
@@ -403,7 +403,7 @@ export default function App() {
       category: 'Puzzle',
       icon: <Puzzle className="w-6 h-6" />,
       color: 'from-teal-500 to-emerald-600',
-      previewImage: 'https://picsum.photos/seed/slide-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: SlidePuzzle
     },
     {
@@ -414,7 +414,7 @@ export default function App() {
       category: 'Arcade',
       icon: <ArrowUpCircle className="w-6 h-6" />,
       color: 'from-emerald-400 to-green-500',
-      previewImage: 'https://picsum.photos/seed/jump-game/400/250',
+      previewImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX-PIdE_CMDCIT-zLVT9lIbvBK7ZfYcX7oQ&s',
       component: DoodleJump
     }
   ];
